@@ -1,15 +1,11 @@
 # Marc Guillemot (@marcg-92250)
 
-
 ## About Me
-Brève description personnelle, parcours professionnel et objectifs.
+I am a dedicated and ambitious 4th-year student at EPITA, an engineering school in Paris, specializing in new technologies and Artificial Intelligence. My academic journey has equipped me with a strong foundation in computer science and software engineering, while my practical experiences have allowed me to apply these skills in real-world projects.
 
-Etudiant chez EPITA, école d'ingénieur sur Paris en nouvelle technologie et en spécialisation IA 4ème années.
-Développeur chez Cristal, junior entreprise de l'EPITA.
-Développeur pour l'agence de Rayan Drissi.
-Prestataire externe pour ByomeLabs, startup dans la dermocosmétique.
+I currently work as a Developer at Cristal, EPITA’s junior enterprise, where I contribute to innovative solutions and collaborate with a talented team. In addition, I develop for Rayan Drissi's agency, engaging in projects that push my creative and technical boundaries. As an external contractor for ByomeLabs, a startup in the dermocosmetics industry, I help design and implement technology solutions that bridge the gap between beauty and science.
 
-Objectif de développer mes compétences et mon milieu d'activités
+My goal is to continuously enhance my technical skills and broaden my professional network, while tackling new challenges and contributing to impactful projects in the tech industry.
 
 ---
 
@@ -33,7 +29,6 @@ Objectif de développer mes compétences et mon milieu d'activités
 ---
 
 #### 💻 Web Development
-
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -50,14 +45,24 @@ Objectif de développer mes compétences et mon milieu d'activités
 
 ---
 
-## Projets
-- Création d'un photomaton et de son application web
-- Digitalisation des processes de l'ordre des médecins 94
-- Création de toute l'infrastructure technique de ByomeLabs
-- Création d'un shell
-  
-## Contact
-mail : 
+## Projects
+- **Photo Booth and Web Application**  
+  Developed an interactive photo booth system alongside a web application that captures and processes images in real-time. This project allowed me to experiment with both front-end and back-end technologies, improving my skills in user interface design and image processing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marc-guillemot-92823a22b)  
-[![Email](https://img.shields.io/badge/Email-marc.guillemot@cristal.je-black?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=black&color=white)](mailto:marc.guillemot@cristal.je )
+- **Digitization of Processes for the Order of Physicians (94)**  
+  Assisted in digitizing contracts, streamlining database queries, enhancing the user interface for better usability, and creating a notification system. This project improved operational efficiency and made it easier for physicians to manage their data.
+
+- **Technical Infrastructure for ByomeLabs**  
+  Designed and implemented a robust technical infrastructure for ByomeLabs, a startup in the dermocosmetics sector. My responsibilities included setting up scalable cloud environments, ensuring system security, and integrating various services to support the startup's innovative products.
+
+- **Custom Shell Development**  
+  Contributed to the development of a custom shell focused on enhancing user interaction and command execution. This project enabled me to explore systems programming and user interface design, while addressing modern requirements for command-line tools.
+
+---
+
+## Contact
+For inquiries or to connect, feel free to reach out:
+
+[![Email](https://img.shields.io/badge/Email-marc.guillemot@cristal.je-black?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=black&color=white)](mailto:marc.guillemot@cristal.je)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marc-guillemot-92823a22b)
+
