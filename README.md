@@ -1,16 +1,22 @@
-## Hi there 👋
+# [Marc Guillemot] (@marcg-92250)
 
-<!--
-**marcg-92250/marcg-92250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Brève description personnelle, parcours professionnel et objectifs.
 
-Here are some ideas to get you started:
+## Compétences
+- **Langages de programmation :** Python, JavaScript, C++, Java, etc.
+- **Frameworks / Outils :** React, Node.js, Docker, Git, etc.
+- **Domaines d'expertise :** Développement web, data science, DevOps...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+Quelques projets personnels ou professionnels marquants avec liens vers les repositories.
+
+## Expérience
+- **Poste / Entreprise** – Brève description des responsabilités et réalisations.
+- **Poste / Entreprise** – Brève description des responsabilités et réalisations.
+
+## Formation
+Liste de vos diplômes, formations et certifications.
+
+## Contact
+Lien vers votre LinkedIn, votre portfolio en ligne ou votre adresse email.
